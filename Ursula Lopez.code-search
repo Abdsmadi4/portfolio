@@ -1,0 +1,9 @@
+# Query: Ursula Lopez
+# ContextLines: 1
+
+1 result - 1 file
+
+public/res_secondaryLanguage.json:
+  3        "description_header": "Cześć",
+  4:       "description": "👋 Jestem Abdallah Smadi. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+  5        "section_name": {
